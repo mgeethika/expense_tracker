@@ -1,0 +1,301 @@
+Transaction_ID,Date,Month,Day of Week,Amount,Category,Payment_Method,Merchant,Notes,Type
+c23b3433-af84-43d7-a44d-f2afb244d51a,10/5/24,October,Saturday,184.01,Shopping,Debit Card,Adidas,Shopping spree at Adidas,Expense
+b050cc90-a951-4f13-97c9-be8ef1cb3a2e,6/9/24,June,Sunday,204.56,Entertainment,Credit Card,Cinemark,Movie night at Cinemark,Expense
+49309f3d-8b42-4b28-ad60-0650d23dbb0a,8/31/24,August,Saturday,327.56,Transportation,Cash,Uber,Commute via Uber,Expense
+9ce79325-15fb-49cf-84ae-a9eb6c9f07c5,5/1/24,May,Wednesday,283.42,Miscellaneous,Bank Transfer,Charity Donation,,Expense
+5b2f863c-aad9-4166-854b-f9f6e5a3c67f,10/14/24,October,Monday,413.63,Travel,Bank Transfer,Holiday Inn,Travel expenses with Holiday Inn,Expense
+216b75be-a841-4445-a25d-2c50fa0a67b8,10/22/24,October,Tuesday,255.65,Shopping,,Best Buy,Bought clothes at Best Buy,Expense
+4337632e-57e2-452e-8e75-143c6941a8fa,9/5/24,September,Thursday,138.2,Shopping,,Target,Bought clothes at Target,Expense
+ec1eef89-0f16-42f4-b2ea-ef5ab595a988,9/16/24,September,Monday,319.07,Bills & Utilities,Debit Card,Comcast,Utility payment to Comcast,Expense
+c509a665-b973-4615-998c-6cd4fbee67bb,3/28/24,March,Thursday,271.14,Entertainment,Bank Transfer,Hulu,Movie night at Hulu,Expense
+af405475-65f6-4638-91a3-cbfb24d26a17,8/20/24,August,Tuesday,1283.48,Salary,Credit Card,Employer Inc.,Paycheck from Employer Inc.,Income
+9ce8d39d-5eb6-4c1c-add7-e9e9a31f9a1f,4/30/24,April,Tuesday,79.23,Food,Credit Card,McDonald's,Dinner at McDonald's,Expense
+a47e8a95-6b4f-4c5b-83d6-e07fad1189f5,10/13/24,October,Sunday,845.05,From Parents,Mobile Payment,Dad,Money received from Dad,Income
+ed73130c-0278-4a05-9d90-db16141e9952,6/12/24,June,Wednesday,493.04,Shopping,Debit Card,Adidas,Bought clothes at Adidas,Expense
+51bbbba0-f1a0-4e36-b3ea-485f8e95f3f8,10/28/24,October,Monday,2821.71,Investment Returns,Cash,Stock Brokerage,Interest earned from Stock Brokerage,Income
+f63e471f-7707-4265-809f-1261021104e6,5/1/24,May,Wednesday,1251.67,Cash Back Rewards,,Bank Rewards Program,Rewards from Bank Rewards Program,Income
+fcde9781-f683-45e5-9da6-e78d84aa3ff5,5/12/24,May,Sunday,428.06,Education,Debit Card,LinkedIn,Course enrollment at LinkedIn,Expense
+0cb8935e-fea1-46b2-b00c-78bd63f0cfaf,8/7/24,August,Wednesday,500.01,Bills & Utilities,,AT&T,Utility payment to AT&T,Expense
+c04ab7cc-9a4b-4f99-a19c-4df423e3c741,4/30/24,April,Tuesday,568.28,Bills & Utilities,Credit Card,Verizon,Paid bill to Verizon,Expense
+f0f892e3-3615-4c84-b1b6-e7ea7b4bfdde,10/25/24,October,Friday,1253.39,Salary,Mobile Payment,Company LLC,Paycheck from Company LLC,Income
+dc3e3f34-373b-40af-8520-4f1e2613a300,8/9/24,August,Friday,377.62,From Parents,Credit Card,Parents,Allowance from Parents,Income
+65efabb6-0fe4-4d7b-85a7-ed538a24b802,7/26/24,July,Friday,760.58,Food,Cash,McDonald's,,Expense
+e250f6bd-3b34-47b4-b511-25f8aeb8531c,10/23/24,October,Wednesday,178.66,Bills & Utilities,Debit Card,Comcast,Utility payment to Comcast,Expense
+19ee93f2-c2cc-4854-bb69-43ba904bbe4f,12/18/23,December,Monday,1432.56,Freelance,Debit Card,Client B,Consulting fee from Client B,Income
+360c3bd3-05ca-4f91-89db-dd8c657a3abe,3/13/24,March,Wednesday,2492.71,Cash Back Rewards,Credit Card,Bank Rewards Program,Cash back from Bank Rewards Program,Income
+5a84a9fc-0ab9-4f7b-8e78-61845d397b15,7/9/24,July,Tuesday,395.65,Bills & Utilities,Mobile Payment,Comcast,Paid bill to Comcast,Expense
+c4cfab00-6f4e-4910-ad8b-083eaf806778,6/24/24,June,Monday,465.84,Groceries,Mobile Payment,Walmart,Groceries from Walmart,Expense
+901a570e-182f-4435-b15a-a0fcbd3d0ddf,1/17/24,January,Wednesday,339,Health,Bank Transfer,Doctor's Office,Prescription from Doctor's Office,Expense
+64ca26a6-2fba-4907-970e-ed502a1cad5f,6/5/24,June,Wednesday,1936.91,From Parents,Debit Card,Dad,Allowance from Dad,Income
+e9664d73-796e-40a8-bc89-e4af631ac54b,3/16/24,March,Saturday,14.22,Education,Credit Card,University Tuition Fees,Tuition fee for University Tuition Fees,Expense
+42af8d17-ad86-43bb-9f5d-965c47f19ecb,3/30/24,March,Saturday,901.95,Freelance,Credit Card,Client B,Freelance payment from Client B,Income
+82267533-7744-400a-bd96-16690ceec524,3/6/24,March,Wednesday,58.07,Miscellaneous,Bank Transfer,Charity Donation,Donation to Charity Donation,Expense
+4c423c46-b1d1-4dcf-96a8-c0622e2acdea,1/25/24,January,Thursday,2261.39,,Cash,,Interest earned from Stock Brokerage,Income
+5fcc7528-97de-4ff6-847a-413cbfe79d8b,9/29/24,September,Sunday,84.25,Groceries,Debit Card,Trader Joe's,Groceries from Trader Joe's,Expense
+b58c7fa4-637f-4a29-9c00-ad6bf5942c6c,6/21/24,June,Friday,536.89,Tax Refund,Bank Transfer,State Tax Agency,Tax refund from State Tax Agency,Income
+090ac8f1-634a-4cbf-9c44-0dc61085f345,2/17/24,February,Saturday,1178.35,Freelance,Cash,Client C,Freelance payment from Client C,Income
+e6f66f0f-e687-4789-b44d-e47c97598eb0,8/24/24,August,Saturday,2624.11,Freelance,Debit Card,Client C,Consulting fee from Client C,Income
+8caa14b4-2735-4196-8ce9-2812f2d69799,8/25/24,August,Sunday,590.01,Shopping,Credit Card,Target,Purchased items from Target,Expense
+ef98aeff-6178-4ffc-b7af-6cd5a82e72b3,8/30/24,August,Friday,409.4,Entertainment,Cash,Disney+,Subscription to Disney+,Expense
+20a5f24b-2016-48e1-a675-5d0d0fd27460,9/12/24,September,Thursday,925.24,From Parents,Bank Transfer,Mom,Money received from Mom,Income
+37639b86-2c98-4c0c-aeff-7dbb13c6e975,10/10/24,October,Thursday,197.03,Education,Mobile Payment,University Tuition Fees,Tuition fee for University Tuition Fees,Expense
+39a903e4-1d31-4ca1-97f2-417e56b17fbf,1/28/24,January,Sunday,2582.09,Salary,Bank Transfer,Business Corp.,Paycheck from Business Corp.,Income
+725f197f-c50e-4a09-863a-4bbd1a9df967,1/31/24,January,Wednesday,616.7,Education,Credit Card,University Tuition Fees,Course enrollment at University Tuition Fees,Expense
+85c45100-a07a-4fb5-8027-08b61dd38ebb,12/19/23,December,Tuesday,2790.27,Gifts,Credit Card,Family Member,Gift received from Family Member,Income
+23455c4a-e187-4c90-9cb8-3944e6184c79,7/30/24,July,Tuesday,257.93,Bills & Utilities,Debit Card,AT&T,Paid bill to AT&T,Expense
+8f8f40d2-169b-4c78-8236-f17f55f2d842,12/19/23,December,Tuesday,2811.37,Cash Back Rewards,Debit Card,Bank Rewards Program,Cash back from Bank Rewards Program,Income
+a78b3dd4-7bf6-4499-b79a-c9b43ea29920,3/26/24,March,Tuesday,259.73,Health,Mobile Payment,Doctor's Office,Medical services at Doctor's Office,Expense
+986f3b5b-5d65-4477-a432-8bfa5044494b,3/1/24,March,Friday,292.01,Shopping,Debit Card,Amazon,Purchased items from Amazon,Expense
+243bbab1-6e68-4baf-8dab-b64aa944bdfc,12/12/23,December,Tuesday,2069.17,From Parents,Mobile Payment,Dad,Money received from Dad,Income
+ec3d0413-e70e-4984-b649-e8cb041b9a86,6/7/24,June,Friday,538.35,Bills & Utilities,Cash,Electric Company,Utility payment to Electric Company,Expense
+e587d899-1b77-4f66-ac5e-912d4a9ac157,4/30/24,April,Tuesday,95.98,Miscellaneous,Mobile Payment,Salon,Miscellaneous expense at Salon,Expense
+54bbf030-c849-4dca-a738-f2dc2fea706f,7/22/24,July,Monday,1332.05,Cash Back Rewards,Debit Card,Credit Card Rewards,Rewards from Credit Card Rewards,Income
+8fcd5358-e998-4a7b-9d21-1bb9bab9ec66,2/13/24,February,Tuesday,566.77,Bills & Utilities,Mobile Payment,Comcast,Utility payment to Comcast,Expense
+58bcb595-bae0-40b8-bd3a-c224fb0a6d95,6/27/24,June,Thursday,2213.4,Salary,Credit Card,Employer Inc.,Monthly salary from Employer Inc.,Income
+fc580dc3-d265-4f39-98d9-71ff62babe17,1/20/24,January,Saturday,1025.45,Cash Back Rewards,Cash,Credit Card Rewards,Cash back from Credit Card Rewards,Income
+a7e6e149-9d18-4334-be90-2f3f61647010,5/9/24,May,Thursday,1296.67,Tax Refund,Cash,IRS,Tax refund from IRS,Income
+ef076d35-8f58-4ce0-a529-64314492c78e,8/18/24,August,Sunday,43.62,Travel,Debit Card,Holiday Inn,Travel expenses with Holiday Inn,Expense
+35020fd7-6817-4e6c-87ba-5dfd19d1d0d3,11/29/23,November,Wednesday,151.37,Transportation,Bank Transfer,,Commute via Taxi Service,Expense
+d366f12e-d4d3-4868-9595-98c8ee9479ec,5/22/24,May,Wednesday,1698.08,Freelance,Debit Card,Client C,Consulting fee from Client C,Income
+5312a9aa-f016-40bd-b5f0-60eee9c4d790,7/11/24,July,Thursday,236.01,Miscellaneous,Debit Card,Miscellaneous Purchase,Miscellaneous expense at Miscellaneous Purchase,Expense
+34e7adba-c0a0-450c-b919-cb18a551dd65,2/14/24,February,Wednesday,1947.27,Tax Refund,Bank Transfer,,Tax refund from IRS,Income
+01d3d3b0-1641-475a-bb6b-7ac3bb350d0c,9/10/24,September,Tuesday,371.62,Education,Cash,Bookstore,Books purchased from Bookstore,Expense
+c99f2ad2-e23f-4816-a3de-2657363c697f,7/22/24,July,Monday,275.04,Groceries,Cash,Indian store,Weekly shopping at Indian store,Expense
+134c2677-3fa1-40f4-9703-84c41197f483,5/29/24,May,Wednesday,271.34,Bills & Utilities,Bank Transfer,,Paid bill to Verizon,Expense
+87cb1820-21b4-4c6b-ac46-b325c6b4bd34,11/7/23,November,Tuesday,2632.99,Freelance,Mobile Payment,Client C,Freelance payment from Client C,Income
+d4315666-1c31-4f65-be99-ea9f2f557aba,3/8/24,March,Friday,1543.98,,Credit Card,Client C,Freelance payment from Client C,Income
+ec0cf00c-79ef-4b83-91a8-855692586a65,2/14/24,February,Wednesday,592.32,Education,Cash,Online Course,Books purchased from Online Course,Expense
+346b5886-bf7c-41f9-a095-6beec7e40355,5/3/24,May,Friday,10.87,Health,Cash,Rite Aid,Appointment at Rite Aid,Expense
+b1d77f30-acd2-4e3e-ab84-71e06c3090ad,11/30/23,November,Thursday,961.84,,Cash,Credit Card Rewards,Rewards from Credit Card Rewards,Income
+3578648c-365f-4f8c-9d1d-ff91adf19fb0,1/24/24,January,Wednesday,663.93,Miscellaneous,Bank Transfer,,Miscellaneous expense at Salon,Expense
+3368e4cd-04f3-4b5f-a42b-82dad72cf2e1,6/4/24,June,Tuesday,2660.89,Freelance,Debit Card,Client B,Consulting fee from Client B,Income
+f28d2679-f822-4e1b-b3e3-cb28ef0362f5,6/5/24,June,Wednesday,2391.48,From Parents,Cash,Mom,Allowance from Mom,Income
+6f8eebc5-fffb-4848-b502-d09c18be99c4,8/31/24,August,Saturday,380.83,Food,Debit Card,KFC,Dinner at KFC,Expense
+dee5e8de-5fca-41f1-9a53-181f38637337,2/10/24,February,Saturday,605.57,Miscellaneous,Cash,Gift Shop,Donation to Gift Shop,Expense
+e08da3e9-e46e-4ee2-9251-349334c9b456,7/4/24,July,Thursday,497.7,Groceries,Bank Transfer,Indian store,Groceries from Indian store,Expense
+5dc85872-267d-4850-b6dd-0537c074ba31,6/2/24,June,Sunday,757.44,Shopping,Credit Card,Adidas,Bought clothes at Adidas,Expense
+202936ea-b694-4c3a-9f94-596bd55fa71a,10/10/24,October,Thursday,433.03,Food,Bank Transfer,Panda Express,Coffee from Panda Express,Expense
+54df0bef-8972-4f08-8ee5-be4e9227633e,4/13/24,April,Saturday,153.7,Transportation,,Lyft,Transport fare for Lyft,Expense
+1d91b4a6-eb7e-4f40-a272-91cf2ea91154,2/18/24,February,Sunday,6.5,Shopping,Bank Transfer,Best Buy,Bought clothes at Best Buy,Expense
+b409a896-0011-499a-806d-40ae4a8d8556,10/12/24,October,Saturday,294.33,Travel,Bank Transfer,Southwest Airlines,Flight booked with Southwest Airlines,Expense
+95fb7514-6fe8-411e-9313-5afda2daab2d,6/2/24,June,Sunday,388.26,Bills & Utilities,Bank Transfer,Water Company,Utility payment to Water Company,Expense
+d8d66277-a9e9-4001-b4a5-9ad25812ba26,8/13/24,August,Tuesday,615.7,Miscellaneous,Debit Card,Orange Theory Fitness,Miscellaneous expense at Orange Theory Fitness,Expense
+d0b9e790-5fb4-4a41-af52-31de14d81c30,11/12/23,November,Sunday,2187.29,From Parents,,Dad,Money received from Dad,Income
+0c70060b-d3b5-4c2b-8573-ba82e67cfd50,8/23/24,August,Friday,413.47,,Cash,Outlet mall,Bought clothes at Outlet mall,Expense
+0f50eae9-045b-4b8d-9ac8-edeebdb41c14,4/29/24,April,Monday,789.33,Entertainment,Mobile Payment,AMC Theatres,Concert tickets from AMC Theatres,Expense
+a7aecf1b-e347-4be8-b073-dcb6496902b9,7/22/24,July,Monday,319.53,Health,Mobile Payment,Dental Clinic,,Expense
+abde069c-4144-48cf-a3fc-e0b5c1f3a0fa,4/6/24,April,Saturday,1359.68,Investment Returns,Bank Transfer,Investment Bank,Dividend from Investment Bank,Income
+0631dcb1-1107-4ccf-86fa-4a0f8989dc34,9/12/24,September,Thursday,690.21,Health,Bank Transfer,Doctor's Office,Prescription from Doctor's Office,Expense
+a1f4bdbb-3698-451d-a488-97fbfcabc555,8/3/24,August,Saturday,512.78,Bills & Utilities,Cash,AT&T,Utility payment to AT&T,Expense
+65257b2e-8a3b-44df-992c-7c1676f438d9,5/8/24,May,Wednesday,935.07,Salary,Credit Card,Company LLC,Monthly salary from Company LLC,Income
+c0dcb82e-5511-406d-9ad7-63539cafb409,12/8/23,December,Friday,129.81,Food,Debit Card,KFC,Coffee from KFC,Expense
+bec46960-67ad-46e1-ae2b-906c77326514,10/12/24,October,Saturday,34.82,Shopping,Bank Transfer,Best Buy,Shopping spree at Best Buy,Expense
+7bc67909-4b3d-4fcd-8650-6cbfd0070931,1/16/24,January,Tuesday,39.88,Education,Bank Transfer,Coursera,Tuition fee for Coursera,Expense
+24ba2052-a61b-4bc6-856a-f0ed0c5abe9a,5/6/24,May,Monday,548.74,Bills & Utilities,Debit Card,Water Company,Paid bill to Water Company,Expense
+8831b104-be42-41b8-8d83-18f22c4ca8ea,8/18/24,August,Sunday,521.57,Transportation,Cash,Uber,Transport fare for Uber,Expense
+d9871d30-8361-4059-87cc-08ec260b5fed,4/12/24,April,Friday,187.62,Cash Back Rewards,Debit Card,Bank Rewards Program,,Income
+40e8e325-e7ec-49a6-8a0a-def8fabec560,1/9/24,January,Tuesday,499.57,Entertainment,Mobile Payment,Cinemark,Subscription to Cinemark,Expense
+863c02d2-3b30-492d-b561-bf1a2c6ea100,10/24/24,October,Thursday,703.33,Bills & Utilities,Cash,Comcast,Utility payment to Comcast,Expense
+3a096dc6-c855-4872-bee3-c6e91cab194b,4/24/24,April,Wednesday,53.15,Travel,Mobile Payment,Continental Hotel,Flight booked with Continental Hotel,Expense
+748f06cb-6fd1-460e-8f08-97fd735016d8,10/31/24,October,Thursday,657.23,Transportation,Cash,Public Transit,,Expense
+460ceb75-27ab-4cad-b8dd-376286bf74c1,4/4/24,April,Thursday,537.44,Shopping,,Target,Bought clothes at Target,Expense
+8e778fba-74cf-436e-bbad-5e7f53ec040a,5/24/24,May,Friday,1286.93,Gifts,Bank Transfer,Family Member,Gift received from Family Member,Income
+b9e88b2e-7566-487e-963c-582d358fd5c0,7/24/24,July,Wednesday,2024.07,Tax Refund,Cash,IRS,Tax refund from IRS,Income
+dbfc472b-5f17-4b4d-8f4a-140a019c7010,8/9/24,August,Friday,416.23,Groceries,Credit Card,Trader Joe's,Weekly shopping at Trader Joe's,Expense
+f34e972f-24dc-40ba-a51d-b4c3c7f09675,5/4/24,May,Saturday,2485.83,Gifts,Bank Transfer,Relative,Gift received from Relative,Income
+20480a6c-9cb6-4ef8-be64-a28b582367bf,7/7/24,July,Sunday,448.7,Bills & Utilities,,Water Company,Paid bill to Water Company,Expense
+577c2174-3c46-4bee-b4d6-50037f48f2c0,8/21/24,August,Wednesday,172.52,Health,Credit Card,Rite Aid,Prescription from Rite Aid,Expense
+c39cb149-b419-413f-8869-3731a7c822d3,1/24/24,January,Wednesday,447.29,,Bank Transfer,Local restaurant,Coffee from Local restaurant,Expense
+780346ea-c3f9-4cce-ba9c-b1a2a7d57956,2/23/24,February,Friday,716.87,Travel,Credit Card,Continental Hotel,Travel expenses with Continental Hotel,Expense
+2de62a30-94a7-48c9-a81d-7f497b3885ff,11/27/23,November,Monday,595.84,Health,Mobile Payment,Rite Aid,Appointment at Rite Aid,Expense
+7c316fa3-366d-4caf-b232-3dd975000f55,1/17/24,January,Wednesday,1301.47,Cash Back Rewards,Mobile Payment,Credit Card Rewards,,Income
+21b21caa-1dff-4081-a806-c03143c808f7,11/8/23,November,Wednesday,320.81,Education,Credit Card,Bookstore,Course enrollment at Bookstore,Expense
+7dae69b3-a1bb-4c20-aa98-31ca2604b699,6/12/24,June,Wednesday,751.42,Travel,Mobile Payment,Marriott Hotel,Flight booked with Marriott Hotel,Expense
+8b2e0b4f-fc3f-420f-862b-f3f7f83b228e,5/23/24,May,Thursday,641.25,Groceries,Cash,Kroger,Weekly shopping at Kroger,Expense
+d73f6084-caae-47c6-9454-b63c7b2a117d,2/8/24,February,Thursday,360.65,Groceries,Mobile Payment,Kroger,Weekly shopping at Kroger,Expense
+c74e6dc9-21f6-4054-9e2d-e72202f78cc4,3/17/24,March,Sunday,627.44,Bills & Utilities,Credit Card,AT&T,Paid bill to AT&T,Expense
+21c8c5d2-603f-4b76-b7fe-cd4f08e6545a,3/6/24,March,Wednesday,609.04,Shopping,Mobile Payment,Outlet mall,Purchased items from Outlet mall,Expense
+828a0bc8-d351-49c7-a85a-e3e77ae52861,9/19/24,September,Thursday,996.64,From Parents,Bank Transfer,Parents,Allowance from Parents,Income
+d96aa2c5-79a0-46d4-885a-cd0148492c25,6/7/24,June,Friday,621.16,Food,,Starbucks,Coffee from Starbucks,Expense
+7186d574-0bf0-4967-8a79-670b8fd15b45,1/15/24,January,Monday,2129.67,Freelance,Mobile Payment,Client A,Freelance payment from Client A,Income
+a5a0c88e-889a-42f1-8def-95ddfc75b809,9/27/24,September,Friday,261.18,Education,Credit Card,Udemy,Tuition fee for Udemy,Expense
+e0ebd1f5-d6ca-4dd8-b970-087f4113a611,6/4/24,June,Tuesday,2279.97,Cash Back Rewards,Cash,Bank Rewards Program,Rewards from Bank Rewards Program,Income
+77090de0-a94a-4ee7-a56f-d2199280a624,5/12/24,May,Sunday,496.79,Travel,Bank Transfer,American Airlines,Flight booked with American Airlines,Expense
+b9fd219e-15be-44ca-9eb7-90999cb57002,5/10/24,May,Friday,486.87,Bills & Utilities,Mobile Payment,Comcast,Utility payment to Comcast,Expense
+ef4b38cc-0461-418e-8c58-b52f17c849f5,3/1/24,March,Friday,420.91,,Debit Card,Target,Bought clothes at Target,Expense
+c931911f-dd63-43a2-b69c-5ac845211f51,4/12/24,April,Friday,539.9,Travel,Debit Card,American Airlines,Flight booked with American Airlines,Expense
+b52084b7-e297-4e52-bcf2-1297cab76601,8/31/24,August,Saturday,476.16,Miscellaneous,Mobile Payment,Salon,Donation to Salon,Expense
+f546b4ac-5b5f-49c9-9132-b6d7bbdd6f02,5/8/24,May,Wednesday,355.18,Travel,Mobile Payment,Marriott Hotel,Flight booked with Marriott Hotel,Expense
+4db09e91-7188-4a90-b9ec-cb5e95afb0b8,11/15/23,November,Wednesday,742.29,Travel,Mobile Payment,Holiday Inn,Flight booked with Holiday Inn,Expense
+8dd2690f-26c6-4272-86a2-1051b38accc4,1/7/24,January,Sunday,1345.55,Salary,Mobile Payment,Business Corp.,Paycheck from Business Corp.,Income
+df79434e-b74c-46d9-8b73-a431746e4d24,9/8/24,September,Sunday,568.78,Groceries,Mobile Payment,,Weekly shopping at Safeway,Expense
+5c51cf47-cb0d-4de0-981a-c9bd470c344f,3/3/24,March,Sunday,260.78,Groceries,Bank Transfer,Whole Foods,Groceries from Whole Foods,Expense
+ab100e9e-75ab-45ff-9dd4-0af6eb4cd64a,4/17/24,April,Wednesday,4.62,Travel,,Southwest Airlines,Flight booked with Southwest Airlines,Expense
+06a10d19-8125-4315-aa4f-1651d575b841,8/23/24,August,Friday,503.81,Shopping,Credit Card,Adidas,Bought clothes at Adidas,Expense
+a28e0dd7-0820-442f-b417-97156aefcfe3,3/25/24,March,Monday,2942.61,Salary,Debit Card,Employer Inc.,Monthly salary from Employer Inc.,Income
+4fd08edc-db84-4a01-a800-b9c10d67daa2,3/13/24,March,Wednesday,341.9,Miscellaneous,Bank Transfer,Spa,Donation to Spa,Expense
+e2e55d22-911a-4fd3-a46e-96a9fb256ae5,6/21/24,June,Friday,582.47,,Debit Card,Relative,Gift received from Relative,Income
+9402a80a-87e6-4d0d-9079-47367362734b,4/22/24,April,Monday,2502.29,Investment Returns,Credit Card,Stock Brokerage,Dividend from Stock Brokerage,Income
+99747f28-5495-4c9f-9cf3-38fc3d511221,10/11/24,October,Friday,908.36,From Parents,Bank Transfer,Mom,Money received from Mom,Income
+c0f24288-a5a4-4e92-baf1-cc444360bac3,1/11/24,January,Thursday,1444.22,Tax Refund,Bank Transfer,State Tax Agency,Tax refund from State Tax Agency,Income
+a67cae65-f785-4405-a81c-5ea419530e6b,2/17/24,February,Saturday,548.97,Entertainment,Credit Card,Disney+,Concert tickets from Disney+,Expense
+7bb93743-9499-491e-a524-4c390a233bc5,10/28/24,October,Monday,2748.74,Investment Returns,Credit Card,Investment Bank,Interest earned from Investment Bank,Income
+3f87e3f9-8eb2-4ef2-8478-e77fe37adc14,2/15/24,February,Thursday,612.45,Bills & Utilities,Credit Card,Verizon,Utility payment to Verizon,Expense
+13d0314d-1492-4f1b-826f-42cbc7ca3bf2,11/9/23,November,Thursday,727.51,,Credit Card,Holiday Inn,Hotel stay at Holiday Inn,Expense
+2169e637-70b5-48df-99f9-b8865225591b,6/8/24,June,Saturday,127.09,Entertainment,Cash,Cinemark,Concert tickets from Cinemark,Expense
+c117eac1-77c1-4bde-b4ae-4c7807e26780,5/17/24,May,Friday,2453.84,,Cash,Mom,Money received from Mom,Income
+1772b7b2-2f8b-4c8f-88ce-b860adb74b47,2/1/24,February,Thursday,403.39,Education,Cash,Bookstore,Books purchased from Bookstore,Expense
+70f98c16-adc8-4b81-915c-329a9a19e81e,5/23/24,May,Thursday,1464.53,,Credit Card,Client B,Consulting fee from Client B,Income
+b87dc7fe-431d-4872-86e6-30d6edc0d08a,11/29/23,November,Wednesday,656.85,Food,Mobile Payment,IHOP,Dinner at IHOP,Expense
+97d169bf-654e-4884-8cea-dde0d3ded3a6,2/6/24,February,Tuesday,140.67,Travel,Debit Card,American Airlines,,Expense
+18361b14-ebc8-4149-8675-a8f151e617b1,11/30/23,November,Thursday,387.42,Food,Bank Transfer,KFC,Lunch at KFC,Expense
+88c6f2f5-0353-4e69-ba7f-c3f16380ede1,1/1/24,January,Monday,1889.56,Freelance,Cash,Client B,Freelance payment from Client B,Income
+72ac093e-ab36-4d0c-8ca8-fa6eab4a3ca9,11/1/24,November,Friday,52.42,Entertainment,Bank Transfer,Hulu,Movie night at Hulu,Expense
+e66e7250-a9ae-4bc6-abd0-6e69038fe3f4,5/12/24,May,Sunday,172.05,Travel,Mobile Payment,Marriott Hotel,Travel expenses with Marriott Hotel,Expense
+fa512e74-cef0-403e-b476-2e106c3508ae,4/13/24,April,Saturday,2252.69,Gifts,Credit Card,Family Member,Cash gift from Family Member,Income
+bbd16367-6258-461f-8925-383ea19d0982,1/22/24,January,Monday,72.06,Travel,Bank Transfer,Continental Hotel,Hotel stay at Continental Hotel,Expense
+50e5be51-6181-410a-85c3-aa59eb948e90,1/5/24,January,Friday,413.94,Health,Debit Card,Rite Aid,Appointment at Rite Aid,Expense
+d76abd7d-c320-4355-943d-36a7b5539427,7/27/24,July,Saturday,349.19,Entertainment,Credit Card,Spotify,Concert tickets from Spotify,Expense
+d8416a6d-8219-447e-9741-a7f9c0658d08,5/14/24,May,Tuesday,1950.06,From Parents,Credit Card,Dad,Money received from Dad,Income
+e2e6ffe3-4f6c-4b41-ba4a-d5bfce698c50,10/2/24,October,Wednesday,457.02,Education,Mobile Payment,Bookstore,Books purchased from Bookstore,Expense
+b6e23afb-62b8-4314-a7a1-8803dbe2f9dc,12/27/23,December,Wednesday,305.15,Miscellaneous,Debit Card,Salon,Donation to Salon,Expense
+a7ef9e9d-e337-4a8f-9b19-38ab5b94fb31,6/27/24,June,Thursday,624.69,Food,Mobile Payment,KFC,Breakfast at KFC,Expense
+a3fb2962-34c1-4f94-83f5-bfa65d2a8515,8/29/24,August,Thursday,397.19,Entertainment,Debit Card,Hulu,Concert tickets from Hulu,Expense
+70810a4f-cd0d-4747-9c78-ff5b357351c7,10/3/24,October,Thursday,1087.72,Cash Back Rewards,Credit Card,Credit Card Rewards,Rewards from Credit Card Rewards,Income
+826eb043-48c4-475b-9aef-885d1df24179,12/12/23,December,Tuesday,722.38,Transportation,,Public Transit,Transport fare for Public Transit,Expense
+716da14e-6e9c-4bba-a9c5-31dd0dcb9c6c,8/19/24,August,Monday,1574.95,Cash Back Rewards,Cash,Bank Rewards Program,Cash back from Bank Rewards Program,Income
+15c4e2b7-3fca-4d7e-aff0-b9259dbae43b,11/18/23,November,Saturday,716.88,Education,Cash,University Tuition Fees,Tuition fee for University Tuition Fees,Expense
+5dd52ef0-1fd7-42a7-844f-bc291379a2f3,5/27/24,May,Monday,396.93,Bills & Utilities,Bank Transfer,Electric Company,Paid bill to Electric Company,Expense
+65529cba-ab79-4cdd-ae79-c5ab61b7b4a1,2/19/24,February,Monday,405.22,Entertainment,Mobile Payment,Hulu,Subscription to Hulu,Expense
+6ca74868-acff-474f-b6b9-2259c230b130,3/4/24,March,Monday,559.82,Health,Bank Transfer,Doctor's Office,Prescription from Doctor's Office,Expense
+0f691ba9-45c1-4aca-8cf5-211de5bb4fe8,8/9/24,August,Friday,687.95,Shopping,Mobile Payment,Target,,Expense
+18eacc7e-4e40-410d-b24e-482c4b613f1c,2/29/24,February,Thursday,980.44,,Credit Card,,Paycheck from Company LLC,Income
+b47e5667-602d-4b52-8809-57b77983f762,4/19/24,April,Friday,100.56,Health,Bank Transfer,Doctor's Office,Prescription from Doctor's Office,Expense
+9ab5dcd1-5b61-4b34-90fd-81e08c70d7ca,5/25/24,May,Saturday,603.98,Miscellaneous,Mobile Payment,Gift Shop,Miscellaneous expense at Gift Shop,Expense
+b28a3996-5919-4fb1-aabd-d1300e3baa38,3/21/24,March,Thursday,429.53,Health,Mobile Payment,Rite Aid,,Expense
+162927c1-28fa-4d7b-8ca1-623f6cf22e6d,10/1/24,October,Tuesday,791.06,Shopping,Bank Transfer,Target,Shopping spree at Target,Expense
+81e84d49-a8f3-43d4-84ba-238b08025582,7/27/24,July,Saturday,441.26,Bills & Utilities,Mobile Payment,Water Company,Utility payment to Water Company,Expense
+bb3f9d55-7160-4c52-8733-c9cf9d4c61e9,8/9/24,August,Friday,354.59,Groceries,Debit Card,Indian store,Groceries from Indian store,Expense
+8ad39172-71dd-44a9-be02-5cdfaa905059,9/10/24,September,Tuesday,551.82,Food,Bank Transfer,KFC,Dinner at KFC,Expense
+5ca056b1-ab9a-472d-9565-cb9d7fe7a09f,2/15/24,February,Thursday,1330.34,Salary,Credit Card,Company LLC,Paycheck from Company LLC,Income
+348cab70-f034-4e3f-be4e-defe7386d86a,3/2/24,March,Saturday,101.97,Transportation,Mobile Payment,Uber,Commute via Uber,Expense
+24cb759b-cc24-4bea-bba2-1abaece334bc,9/7/24,September,Saturday,143.74,Cash Back Rewards,Mobile Payment,Credit Card Rewards,Rewards from Credit Card Rewards,Income
+0480d56a-309b-474d-a934-a6db384538e8,12/3/23,December,Sunday,460.64,Cash Back Rewards,Cash,Bank Rewards Program,Rewards from Bank Rewards Program,Income
+fa4a49da-5af6-4775-b818-59124a2f842a,9/5/24,September,Thursday,350.83,Travel,Cash,Continental Hotel,Hotel stay at Continental Hotel,Expense
+f20b7f92-4265-4364-87da-0babd85fa8b2,7/11/24,July,Thursday,306.75,Education,Bank Transfer,LinkedIn,Tuition fee for LinkedIn,Expense
+8a9b080d-e067-4a17-a317-dff80470d0b0,11/12/23,November,Sunday,596.79,Bills & Utilities,Bank Transfer,Verizon,Utility payment to Verizon,Expense
+533456e0-76e0-41fa-aa1b-cdbe46ae5e0b,2/19/24,February,Monday,1542.56,Tax Refund,Cash,IRS,Tax refund from IRS,Income
+56259c9d-0e0a-4b3c-a9ec-c90fd0758a6b,7/14/24,July,Sunday,1731.21,Investment Returns,,Investment Bank,,Income
+939a9227-25f8-4aba-af3c-9c1b15733bbe,10/4/24,October,Friday,481.71,Cash Back Rewards,Cash,Bank Rewards Program,Cash back from Bank Rewards Program,Income
+8eb33b7d-1a17-491d-8c34-8bb3a42ce98d,7/31/24,July,Wednesday,760.69,Education,Debit Card,,Books purchased from Bookstore,Expense
+641098d9-6037-4b80-9103-b27e213d512f,10/15/24,October,Tuesday,718.53,From Parents,Credit Card,Dad,Allowance from Dad,Income
+7257314a-84ce-4389-8e30-7ee498751c19,10/15/24,October,Tuesday,28.59,Bills & Utilities,Mobile Payment,AT&T,Paid bill to AT&T,Expense
+3225b575-0809-418b-9910-706b46d75ad5,11/10/23,November,Friday,629.85,Tax Refund,Debit Card,IRS,Tax refund from IRS,Income
+a5b71892-ce32-4e3b-a32e-e0626b913b70,4/7/24,April,Sunday,2480.3,Cash Back Rewards,Cash,Credit Card Rewards,Rewards from Credit Card Rewards,Income
+d8f75e13-77e4-46a7-8bb8-aa0a484becec,12/22/23,December,Friday,520.66,Food,Cash,Pizza Hut,Lunch at Pizza Hut,Expense
+5de75bd6-61af-4fbc-85f8-6b2dcfbadf3d,2/22/24,February,Thursday,366.74,Miscellaneous,Mobile Payment,Miscellaneous Purchase,Miscellaneous expense at Miscellaneous Purchase,Expense
+4b6bf15a-f7e4-44ee-b2ec-7ba0234584d1,1/25/24,January,Thursday,634.33,Tax Refund,Credit Card,State Tax Agency,Tax refund from State Tax Agency,Income
+c21775cc-3d73-45d4-b26e-6fbf5880153d,8/24/24,August,Saturday,191.75,,Credit Card,State Tax Agency,Tax refund from State Tax Agency,Income
+4d8af2c1-d73d-4c0b-a2a9-4e021b79a313,6/29/24,June,Saturday,782.75,,Cash,Hyatt,Flight booked with Hyatt,Expense
+ccb858db-0a14-40c3-8893-268f07418a4b,9/15/24,September,Sunday,474.39,Shopping,Bank Transfer,Outlet mall,Bought clothes at Outlet mall,Expense
+7a4817b7-f29f-48e8-bc05-865db9b0d81e,10/6/24,October,Sunday,905.5,Freelance,Bank Transfer,Client B,Freelance payment from Client B,Income
+130a5a8e-ed6f-430e-9f31-cf651172b683,4/8/24,April,Monday,48.84,Bills & Utilities,Credit Card,Verizon,Paid bill to Verizon,Expense
+8bc91a90-8446-413b-8a01-9f4e409a14ce,11/18/23,November,Saturday,712.79,Health,Cash,Rite Aid,Prescription from Rite Aid,Expense
+d279362b-91cb-46ec-8fa6-8c539d57089f,2/6/24,February,Tuesday,1414.13,Salary,Mobile Payment,Business Corp.,Paycheck from Business Corp.,Income
+b0e3ee0b-e0c2-4129-a458-cc0da6ccbf84,7/12/24,July,Friday,2208.15,From Parents,Debit Card,Mom,Money received from Mom,Income
+49be10f4-d9cc-4a55-9f1f-a088d8f59223,7/25/24,July,Thursday,425.58,Miscellaneous,Bank Transfer,Charity Donation,Donation to Charity Donation,Expense
+065331ac-d5a0-4246-9386-8645d69ae3f9,7/22/24,July,Monday,293.4,Freelance,,Client C,Consulting fee from Client C,Income
+ddbbd58b-b208-441e-a535-d38182e3a6f3,11/4/24,November,Monday,1823.78,Cash Back Rewards,Credit Card,Credit Card Rewards,Rewards from Credit Card Rewards,Income
+7a1f2d45-54b0-465f-9383-ec21206a5939,7/20/24,July,Saturday,2714.56,,Debit Card,Client C,Consulting fee from Client C,Income
+e9c65dbf-38b0-424a-a3e1-01abc996972b,1/21/24,January,Sunday,159.75,Investment Returns,Cash,,Dividend from Stock Brokerage,Income
+28642be6-564b-4308-88ea-540cb7725220,5/23/24,May,Thursday,562.7,Groceries,Mobile Payment,Walmart,Weekly shopping at Walmart,Expense
+704e078a-65f8-47ad-adc4-d6c8c1d458dd,7/14/24,July,Sunday,286.38,,,American Airlines,Flight booked with American Airlines,Expense
+76e6328c-761c-4a3e-a10c-dc4c4d1258d6,11/8/23,November,Wednesday,357.89,Gifts,Bank Transfer,Family Member,Cash gift from Family Member,Income
+fa678675-a1b3-4bbc-8b1d-d258e9ae9e96,6/17/24,June,Monday,607.03,Bills & Utilities,Debit Card,AT&T,Utility payment to AT&T,Expense
+346e831b-d00b-4001-82ec-4ef28c33e4a1,2/26/24,February,Monday,1214.1,Gifts,Bank Transfer,Friend,Gift received from Friend,Income
+99ec1310-1fde-4c4d-8068-70b317990eb1,7/5/24,July,Friday,1988.83,Gifts,Cash,Family Member,Gift received from Family Member,Income
+40862c9e-d5c9-4ffa-93b7-fe6725317e4d,4/10/24,April,Wednesday,389.63,Miscellaneous,Cash,,Miscellaneous expense at Salon,Expense
+5dbc9c8b-1524-4a6d-b203-fc717d5fbf42,1/13/24,January,Saturday,2479.87,Gifts,Debit Card,Family Member,Cash gift from Family Member,Income
+6c3b4026-f57d-4bf9-8d66-0456499e2be7,10/24/24,October,Thursday,384,Groceries,Cash,Indian store,,Expense
+45341dba-2b4a-4821-aa5e-b59ce539560a,3/26/24,March,Tuesday,854.06,Cash Back Rewards,Cash,Credit Card Rewards,Cash back from Credit Card Rewards,Income
+eb491c9d-74b5-4356-89b8-31f2d63f9e41,10/10/24,October,Thursday,194.28,Education,Credit Card,Bookstore,Tuition fee for Bookstore,Expense
+3b8c5df9-ee2f-4a47-aaa6-8b0cab03690c,2/26/24,February,Monday,2316.58,Salary,Credit Card,Company LLC,Monthly salary from Company LLC,Income
+a919c658-159a-48ff-8b98-ee6a6cbe046c,5/22/24,May,Wednesday,261.2,Transportation,Debit Card,Uber,Transport fare for Uber,Expense
+fcff9d7b-7cda-4a07-a825-b7cc3079784c,5/12/24,May,Sunday,559.26,Groceries,Bank Transfer,Whole Foods,Groceries from Whole Foods,Expense
+286bcd58-a9b4-4f1f-8d65-01fd1a68bf0a,6/18/24,June,Tuesday,1127.49,Gifts,Cash,Relative,Gift received from Relative,Income
+082439f7-ed7f-4526-8f8e-409fb7682e9b,10/22/24,October,Tuesday,707.78,Health,Mobile Payment,Walgreens,Prescription from Walgreens,Expense
+ce3d2b3a-048e-4315-ac6a-cee90a0d5d81,7/2/24,July,Tuesday,756.3,Travel,Cash,Marriott Hotel,,Expense
+bac3b009-a25a-4f97-b40d-1fb8d59cecd2,5/16/24,May,Thursday,151.6,Salary,Bank Transfer,Employer Inc.,Paycheck from Employer Inc.,Income
+e5b76ab7-b176-4988-bbd7-908c5ac1e695,8/26/24,August,Monday,664.53,Bills & Utilities,Credit Card,Water Company,Utility payment to Water Company,Expense
+96be4342-1352-4b7d-b1e4-c607ec9d8815,6/26/24,June,Wednesday,19.41,Shopping,Bank Transfer,Target,Purchased items from Target,Expense
+87cee1fc-4c7b-4d9c-88b5-4a1de2f7a1a9,12/12/23,December,Tuesday,167.25,Health,Bank Transfer,Walgreens,Appointment at Walgreens,Expense
+be770718-57f5-422b-adbd-48ce389f7612,7/28/24,July,Sunday,475.38,Tax Refund,Mobile Payment,IRS,Tax refund from IRS,Income
+15aa1182-20c8-46e4-bbba-b8e727eb9bd0,11/19/23,November,Sunday,778.87,Transportation,Mobile Payment,Lyft,Transport fare for Lyft,Expense
+a2d92819-d044-4b53-a8fa-073bd2413219,2/12/24,February,Monday,754.83,Education,Debit Card,Coursera,Tuition fee for Coursera,Expense
+22b5f7ec-9e04-491f-acd1-87a5f9748f25,12/16/23,December,Saturday,443.17,Shopping,Debit Card,Amazon,Purchased items from Amazon,Expense
+02e2c72a-a604-47e0-bce1-53a99bd24ee8,10/7/24,October,Monday,54.13,Education,Credit Card,Udemy,Books purchased from Udemy,Expense
+3b5140c8-5a4b-4926-a19e-391dc04d86cc,4/5/24,April,Friday,322.42,Shopping,Bank Transfer,Amazon,Bought clothes at Amazon,Expense
+b5e4cae6-8c16-41f5-aae4-c15d11fd9f82,10/6/24,October,Sunday,78.76,Bills & Utilities,Cash,Verizon,Paid bill to Verizon,Expense
+feca083a-bde2-4fdd-a9af-982a44b9a710,1/1/24,January,Monday,2219.61,Freelance,Credit Card,Client C,Consulting fee from Client C,Income
+29f59ac5-c2a4-4c2f-ab57-b502d76e161d,8/23/24,August,Friday,2774.95,Tax Refund,Bank Transfer,IRS,Tax refund from IRS,Income
+dc40244f-50b7-451e-966f-0a3ac591f7cb,9/26/24,September,Thursday,183.03,Transportation,Debit Card,Public Transit,Transport fare for Public Transit,Expense
+b5bafcf0-c691-4ac0-869d-219d152f2070,11/6/23,November,Monday,510.77,Transportation,Mobile Payment,Taxi Service,Commute via Taxi Service,Expense
+52162f7f-91be-42b2-8cf7-90fdb53a5119,12/28/23,December,Thursday,269.63,Bills & Utilities,Cash,Comcast,Paid bill to Comcast,Expense
+43504df8-cffb-4cf8-9ed6-81992fb7c096,12/1/23,December,Friday,180.41,Groceries,Credit Card,Kroger,Weekly shopping at Kroger,Expense
+c7ff1362-cdcb-4325-a455-c7669bb37f59,12/17/23,December,Sunday,763.71,Cash Back Rewards,Cash,,Cash back from Credit Card Rewards,Income
+c39b5f64-170f-4a17-9758-9cce7492f5bd,9/24/24,September,Tuesday,184.87,Groceries,Debit Card,Kroger,Weekly shopping at Kroger,Expense
+74f2ba6f-9241-44a3-941b-db5784afd799,2/22/24,February,Thursday,342.89,Transportation,Mobile Payment,Lyft,Commute via Lyft,Expense
+17d8bba2-7dad-47dc-a908-a2e5f8eb8f1f,8/18/24,August,Sunday,697.61,Health,Mobile Payment,Doctor's Office,,Expense
+ccae9c46-f279-43b0-a105-f33744e773d7,5/28/24,May,Tuesday,1679.55,Investment Returns,Bank Transfer,Stock Brokerage,Interest earned from Stock Brokerage,Income
+ee344328-13fe-4287-b847-5fedd6695ae9,3/23/24,March,Saturday,1125.7,Tax Refund,Debit Card,State Tax Agency,Tax refund from State Tax Agency,Income
+fc27a521-9ad8-4517-9de1-3d64a13ec7cf,1/7/24,January,Sunday,94.81,Health,Cash,CVS Pharmacy,Medical services at CVS Pharmacy,Expense
+3c30575f-7100-442e-936b-8fb88033e197,1/14/24,January,Sunday,484.66,Groceries,Debit Card,Kroger,Weekly shopping at Kroger,Expense
+1ffd7ac5-70ce-4c94-a184-14abc8d74d29,11/1/24,November,Friday,517.8,Transportation,,Public Transit,Commute via Public Transit,Expense
+e69e15cb-f99f-43e3-81f8-a2c216149e0e,8/8/24,August,Thursday,2517.3,,,Dad,Money received from Dad,Income
+b9878424-8735-4ba2-b923-ebe8423ce219,11/24/23,November,Friday,119.49,Health,Cash,CVS Pharmacy,Medical services at CVS Pharmacy,Expense
+57fcc807-e438-4917-8459-802c7612f74a,11/23/23,November,Thursday,609.72,Entertainment,Cash,AMC Theatres,Movie night at AMC Theatres,Expense
+cc07469a-fcc1-44d7-bb84-7a0417f17c23,5/14/24,May,Tuesday,208.73,Education,Bank Transfer,LinkedIn,Course enrollment at LinkedIn,Expense
+47517fbf-72bb-4528-8db5-4f971e070f52,2/18/24,February,Sunday,21.35,Miscellaneous,Credit Card,Orange Theory Fitness,Donation to Orange Theory Fitness,Expense
+d1a42cc5-457e-4edb-a050-137b79c444a5,7/4/24,July,Thursday,73.29,Shopping,Cash,Nike,Purchased items from Nike,Expense
+50f64e00-89c4-409c-a9ec-25b293608912,7/1/24,July,Monday,2890.88,Investment Returns,Credit Card,Stock Brokerage,Interest earned from Stock Brokerage,Income
+0f549ce0-e2e7-4803-acd5-3e3e101556f3,4/4/24,April,Thursday,557.28,Education,Bank Transfer,LinkedIn,Course enrollment at LinkedIn,Expense
+218b51a5-4404-40da-a357-7506f78ce2d0,6/4/24,June,Tuesday,1216.68,Tax Refund,Credit Card,IRS,Tax refund from IRS,Income
+23fa8068-c94d-4503-be41-09b6980a6d15,3/16/24,March,Saturday,531.54,Groceries,,Kroger,Weekly shopping at Kroger,Expense
+e4166815-f9cf-4d8a-bbec-a517ac899094,12/19/23,December,Tuesday,241.88,Education,Credit Card,,Tuition fee for Online Course,Expense
+87bc0766-fbb9-48f5-9e04-5a83ab9b740d,10/22/24,October,Tuesday,584.27,Miscellaneous,Cash,Miscellaneous Purchase,Miscellaneous expense at Miscellaneous Purchase,Expense
+0d359304-72f9-4ccd-834e-b3539dd26911,12/13/23,December,Wednesday,795.43,Food,Cash,Panda Express,Breakfast at Panda Express,Expense
+d7d9a551-3df5-43ca-9afe-ebed44efa2a0,6/10/24,June,Monday,472.95,Education,Cash,LinkedIn,Tuition fee for LinkedIn,Expense
+79493408-44d3-40ce-931d-b33f80a601ff,8/21/24,August,Wednesday,668.74,Transportation,Cash,Taxi Service,Commute via Taxi Service,Expense
+9deba4b6-dc0c-4362-8146-7012b8ef48d1,3/4/24,March,Monday,30.21,Shopping,Credit Card,Best Buy,Purchased items from Best Buy,Expense
+6f419528-55eb-4cd1-97a2-1c8491908394,12/6/23,December,Wednesday,677.89,,Bank Transfer,Southwest Airlines,Flight booked with Southwest Airlines,Expense
+fd01aac0-27e8-412b-a46b-a010e1a9bcea,12/8/23,December,Friday,69.62,,Bank Transfer,Whole Foods,Groceries from Whole Foods,Expense
+fdcef4e8-0341-4e74-8c85-55c71b00c0ab,8/26/24,August,Monday,309.91,Investment Returns,,Investment Bank,Interest earned from Investment Bank,Income
+8af61817-3608-4a9e-b18f-1f16400c1b26,6/19/24,June,Wednesday,670.44,Entertainment,Cash,Netflix,Subscription to Netflix,Expense
+e35b137e-932f-4662-9875-0f6d6030054e,11/1/24,November,Friday,123.16,Food,Credit Card,Pizza Hut,Breakfast at Pizza Hut,Expense
+e828712a-8c1d-4f1b-8a57-8c083f02e7a9,5/24/24,May,Friday,582.2,Shopping,Mobile Payment,Target,Shopping spree at Target,Expense
+a149f7d0-21fd-41d4-96b7-8f2a1ade4fdd,3/4/24,March,Monday,795.18,Shopping,Debit Card,,Shopping spree at Target,Expense
+9d04aec6-8540-4683-83f1-c8b2eab8c3ed,6/5/24,June,Wednesday,786.83,Bills & Utilities,Credit Card,Electric Company,Utility payment to Electric Company,Expense
+eef64f55-0cf7-4cf5-b2b3-c0d635b82363,10/18/24,October,Friday,2195.31,,Bank Transfer,Credit Card Rewards,Cash back from Credit Card Rewards,Income
+386788c3-cda9-4eb6-8e55-4ca16e4867da,11/1/24,November,Friday,680.22,Bills & Utilities,Mobile Payment,Water Company,Paid bill to Water Company,Expense
+b9e24415-f5ec-432f-811c-354f9c930403,12/31/23,December,Sunday,1250.82,Freelance,Cash,Client B,Consulting fee from Client B,Income
+ce390aa7-c273-4ffa-bf53-ff012ba06578,5/16/24,May,Thursday,337.07,Entertainment,Debit Card,Disney+,,Expense
+0b76d9e0-aeb9-4131-beed-7e9cb62f289c,7/12/24,July,Friday,572.18,Bills & Utilities,Bank Transfer,Water Company,,Expense
+3b1220d7-37eb-4cd7-8002-c2dfee74aa45,2/25/24,February,Sunday,47.92,Health,Cash,CVS Pharmacy,Medical services at CVS Pharmacy,Expense
+ef0589c6-1207-4bce-8741-2a541ca4ab5f,8/15/24,August,Thursday,750.08,Education,Cash,Bookstore,Books purchased from Bookstore,Expense
+c1d0bcc0-cc54-4383-9eb7-e2330f3c2a48,2/16/24,February,Friday,461.33,Groceries,,Walmart,Weekly shopping at Walmart,Expense
+2ae9f93f-fdc8-418b-a1ea-0a9064abbbef,8/5/24,August,Monday,2355.45,Investment Returns,Bank Transfer,Stock Brokerage,Dividend from Stock Brokerage,Income
+ce0e2132-87fd-46eb-8322-441bbd9c189f,12/15/23,December,Friday,705.9,Transportation,Credit Card,Public Transit,Ride with Public Transit,Expense
+5d1a5365-5c11-4ad0-acd8-4ade68be7d2a,3/13/24,March,Wednesday,665.23,Tax Refund,Mobile Payment,State Tax Agency,Tax refund from State Tax Agency,Income
+d25b27f2-fc75-4e61-978f-276c89790890,9/14/24,September,Saturday,1179.54,Gifts,Mobile Payment,Family Member,Cash gift from Family Member,Income
+c46e7d1b-5135-466b-ac29-4b2d4ab9087a,10/23/24,October,Wednesday,441.45,Travel,Debit Card,Southwest Airlines,Flight booked with Southwest Airlines,Expense
+758a1964-d807-4964-a4d6-c9147ee4fcac,5/28/24,May,Tuesday,1489.24,Investment Returns,Debit Card,Stock Brokerage,Dividend from Stock Brokerage,Income
+5b2b2d80-8f7b-4fa7-b997-f2ba68d3ff0b,3/26/24,March,Tuesday,622.16,Food,Credit Card,Pizza Hut,Coffee from Pizza Hut,Expense
+81a84e04-e047-4f54-aec4-2bebc133da53,10/4/24,October,Friday,533.24,Bills & Utilities,Debit Card,,Utility payment to Water Company,Expense
+786d215c-4486-45e5-9c49-84b87c9b537b,8/16/24,August,Friday,365.83,Transportation,,Uber,Transport fare for Uber,Expense
+99e8ec58-a5fd-43de-976a-5819d542b558,2/7/24,February,Wednesday,2595.39,Investment Returns,Cash,Investment Bank,Dividend from Investment Bank,Income
+fd867d1a-2bd5-4c0b-a3c7-a6d01abb3a06,9/8/24,September,Sunday,352.67,Miscellaneous,Debit Card,Gift Shop,Miscellaneous expense at Gift Shop,Expense
+dfaa8d5a-52da-4dae-9fbb-eb41e17c522e,6/5/24,June,Wednesday,769.57,Shopping,Cash,Target,Bought clothes at Target,Expense
+15ebc190-1c75-4664-8146-0ad8e331494e,11/17/23,November,Friday,608,Travel,Debit Card,United Airlines,Travel expenses with United Airlines,Expense
+7c6c1429-02c9-462d-b358-402ed7a87f35,6/26/24,June,Wednesday,383.64,Shopping,Bank Transfer,Best Buy,Shopping spree at Best Buy,Expense
+aec4a046-5577-4aa3-9c0b-6fc521f8141b,9/9/24,September,Monday,242.27,Education,Cash,Coursera,Course enrollment at Coursera,Expense
+e72255af-3d10-4d8c-94f7-c9d9afab37e1,9/29/24,September,Sunday,575.09,Gifts,Cash,Relative,Cash gift from Relative,Income
